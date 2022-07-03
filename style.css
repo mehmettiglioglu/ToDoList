@@ -1,0 +1,32 @@
+#userInput{
+    border: 2px solid grey;
+    width: 500px;
+    height: 40px;
+}
+#list{
+    width: 500px;
+    margin-top: 20px;
+}
+.line{
+    text-decoration: line-through;
+    
+}
+.fl-rg{
+    float: right;
+  
+}
+li:hover{
+    background-color: rgb(189, 182, 182);
+}
+
+.success{
+    background-color: greenyellow;
+}
+.danger{
+    background-color: rgb(209, 87, 87);
+}
+
+.message{
+    font-size: 25px;
+    font-family: monospace;
+}
